@@ -8,3 +8,5 @@ Programming Questions | Coursera | Algorithms: Design &amp; Analysis, Part 1
 3: Computing the mincut of a graph, given its adjacency list representation
 
 4: Computing the sizes of the 5 largest Strongly Connected Components in given Directed Graph
+
+5: Computing the lengths of the shortest paths to all vertices of a graph using Dijkstra's Algorithm 
